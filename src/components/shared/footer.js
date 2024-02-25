@@ -24,7 +24,7 @@ const Footer = () => {
     <a className="link link-hover">Marketing</a> 
     <a className="link link-hover">Advertisement</a>
   </div> 
-  <div className='lg:mx-auto sm:ml-20 ml-0 items-center'>
+  <div className='mx-auto  items-center'>
     <p className="font-bold text-2xl mt-2 text-black">
       Md Sumon Ahamed. <br/> </p> 
       <p className='text-xl'> Web Developer</p>
