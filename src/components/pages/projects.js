@@ -32,6 +32,7 @@ const Projects = () => {
     <div className="projectsCard card card-compact min-w-[250px] max-w-[400px] bg-base-100 shadow-xl mx-auto mb-8 " data-aos="flip-left"
      data-aos-easing="ease-out-cubic"
      data-aos-duration="3000"
+     data-aos-delay="300"
      >
     <figure className=''>
         <Image className='mt-2 p-3 h-[250px] min-w-[230px] max-w-[350px] ' src={Manufecturer} alt="Shoes" />
@@ -50,6 +51,7 @@ const Projects = () => {
     <div className="projectsCard card card-compact min-w-[250px] max-w-[400px] bg-base-100 shadow-xl mx-auto mb-8" data-aos="flip-left"
      data-aos-easing="ease-out-cubic"
      data-aos-duration="3000"
+     data-aos-delay="400"
      >
     <figure className=''>
         <Image className='mt-2 p-3 h-[250px] min-w-[230px] max-w-[350px] ' src={Wearhouse} alt="Shoes" />
@@ -68,6 +70,7 @@ const Projects = () => {
     <div className="projectsCard card card-compact min-w-[250px] max-w-[400px] bg-base-100 shadow-xl mx-auto mb-8" data-aos="flip-left"
      data-aos-easing="ease-out-cubic"
      data-aos-duration="3000"
+     data-aos-delay="500"
      >
     <figure className=''>
         <Image className='mt-2 p-3 h-[250px] min-w-[230px] max-w-[350px] ' src={Photographer} alt="Shoes" />

@@ -27,7 +27,8 @@ const Features = () => {
      <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3 justify-center items-center mb-5 '>
 
 
-     <div className="projectsCard card card-compact min-w-[200px] max-w-[300px] bg-base-100 shadow-xl mx-auto mb-8 p-2" 
+     <div data-aos="fade-up"
+     data-aos-anchor-placement="bottom-bottom" data-aos-delay="200" className="projectsCard card card-compact min-w-[200px] max-w-[300px] bg-base-100 shadow-xl mx-auto mb-8 p-2" 
      >
     <figure className=''>
         <Image src={Nextjs} className='mt-2 p-3 h-[250px] min-w-[190px] max-w-[290px] ' alt="Shoes" />
@@ -41,7 +42,8 @@ const Features = () => {
 
      
 
-    <div className="projectsCard card card-compact min-w-[200px] max-w-[300px] bg-base-100 shadow-xl mx-auto mb-8 p-2 " 
+    <div data-aos="fade-up"
+     data-aos-anchor-placement="bottom-bottom" data-aos-delay="300" className="projectsCard card card-compact min-w-[200px] max-w-[300px] bg-base-100 shadow-xl mx-auto mb-8 p-2 " 
      >
     <figure className=''>
         <Image  src={Tailwind} className='mt-2 p-3 h-[200px] min-w-[190px] max-w-[290px] ' alt="Shoes" />
@@ -55,7 +57,8 @@ const Features = () => {
    
 
 
-    <div className="projectsCard card card-compact min-w-[200px] max-w-[300px] bg-base-100 shadow-xl mx-auto mb-8 p-2 " 
+    <div data-aos="fade-up"
+     data-aos-anchor-placement="bottom-bottom" data-aos-delay="400" className="projectsCard card card-compact min-w-[200px] max-w-[300px] bg-base-100 shadow-xl mx-auto mb-8 p-2 " 
      >
     <figure className=''>
         <Image src={Responsive} className='mt-2 p-3 h-[220px] min-w-[190px] max-w-[290px] ' alt="Shoes" />
@@ -66,7 +69,8 @@ const Features = () => {
    
   </div>
 </div>
-    <div className="projectsCard card card-compact min-w-[200px] max-w-[300px] bg-base-100 shadow-xl mx-auto mb-8 p-2 " 
+    <div data-aos="fade-up"
+     data-aos-anchor-placement="bottom-bottom" data-aos-delay="300" className="projectsCard card card-compact min-w-[200px] max-w-[300px] bg-base-100 shadow-xl mx-auto mb-8 p-2 " 
      >
     <figure className=''>
         <Image src={Fontawesome} className='mt-2 p-3 h-[250px] min-w-[190px] max-w-[290px] ' alt="Shoes" />
@@ -77,7 +81,8 @@ const Features = () => {
    
   </div>
 </div>
-    <div className="projectsCard card card-compact min-w-[200px] max-w-[300px] bg-base-100 shadow-xl mx-auto mb-8 p-2" 
+    <div data-aos="fade-up"
+     data-aos-anchor-placement="bottom-bottom" data-aos-delay="400" className="projectsCard card card-compact min-w-[200px] max-w-[300px] bg-base-100 shadow-xl mx-auto mb-8 p-2" 
      >
     <figure className=''>
         <Image src={ContactForm} className='mt-2 p-3 h-[260px] min-w-[190px] max-w-[290px] ' alt="Shoes" />
@@ -89,7 +94,8 @@ const Features = () => {
    
   </div>
 </div>
-    <div className="projectsCard card card-compact min-w-[200px] max-w-[300px] bg-base-100 shadow-xl mx-auto mb-8 p-2 " 
+    <div data-aos="fade-up"
+     data-aos-anchor-placement="bottom-bottom" data-aos-delay="500" className="projectsCard card card-compact min-w-[200px] max-w-[300px] bg-base-100 shadow-xl mx-auto mb-8 p-2 " 
      >
     <figure className=''>
         <Image src={FramerMotion} className='mt-2 p-3 h-[250px] min-w-[190px] max-w-[290px] ' alt="Shoes" />
