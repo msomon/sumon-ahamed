@@ -1,3 +1,5 @@
+
+"use client"
 import React from 'react';
 import uiDesign from '@/assets/ui-design.svg'
 import webDEvelopment from '@/assets/web-development.svg'
@@ -14,14 +16,14 @@ const AboutMe = () => {
 
     <p className='my-4 whitespace-normal '>
 
-    Hello! I'm Sumon Ahamed, a passionate MERN stack web developer with a knack for turning ideas into reality through code. With a solid foundation in HTML, CSS, and JavaScript, I specialize in crafting dynamic and user-friendly web applications. </p>
+    Hello! I am Sumon Ahamed, a passionate MERN stack web developer with a knack for turning ideas into reality through code. With a solid foundation in HTML, CSS, and JavaScript, I specialize in crafting dynamic and user-friendly web applications. </p>
 
    <p className='mb-3'>💻 My expertise extends to React.js for building interactive user interfaces and Node.js for server-side development. I thrive on utilizing MongoDB and Firebase for database management, ensuring seamless data handling and retrieval.I also use the Next.js framework because it offers built-in support for API routes, enabling me to create backend functionality within the same project structure.</p>
 
-   <p className='mb-2'> I'm well-versed in version control systems like GitHub for collaborative development and deployment platforms like Vercel for efficient project hosting.🚀 Whether it's developing robust web applications or refining user interfaces, I'm dedicated to delivering high-quality solutions that meet both client needs and industry standards. </p>
+   <p className='mb-2'> I am well-versed in version control systems like GitHub for collaborative development and deployment platforms like Vercel for efficient project hosting.🚀 Whether it is developing robust web applications or refining user interfaces, I am dedicated to delivering high-quality solutions that meet both client needs and industry standards. </p>
 
 
-<p>Let's connect and collaborate on exciting projects together!</p>
+<p>Lets connect and collaborate on exciting projects together!</p>
             <h1 className='text-3xl my-4'>What I Do</h1>
             </div>
 

@@ -34,7 +34,7 @@ const Features = () => {
         </figure>
     <div className="card-body">
     <h2 className="card-title justify-center">Next JS 14+</h2>
-    <p>We used latest react Nextjs vertion ^14+. Max Components are Reusable for you. It's a awesome design made by React NextJS. </p>
+    <p>We used latest react Nextjs vertion ^14+. Max Components are Reusable for you. It is a awesome design made by React NextJS. </p>
    
   </div>
 </div>
