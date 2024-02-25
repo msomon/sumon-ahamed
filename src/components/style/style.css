@@ -1,0 +1,115 @@
+
+
+
+/*    this global class  start*/
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+
+
+
+/*  this global class end */
+
+
+
+
+
+/* navbar section start  */
+
+
+
+
+.navbar{
+    background-image: linear-gradient(to left bottom, #91f4af, #a3f6a7, #b6f89f, #c8fa98, #dbfb92);
+    color:black
+    
+}
+
+
+/* navbar section end  */
+
+
+
+/* this home section start */
+
+
+.home{
+    background-image: linear-gradient(to top, #e4f0f0, #e2f0f0, #e1f0f0, #dfefef, #ddefef, #d9eef1, #d5edf3, #d3ebf5, #d3e7f9, #d8e1fa, #e2daf7, #eed3ef);
+
+}
+
+
+.resumeButton{
+    background-image: linear-gradient(to right top, #8ba8d4, #4ec4ea, #00dddc, #6aefac, #cdf674);
+}
+
+.image-bg{
+    border-radius: 29% 71% 70% 30% / 71% 66% 34% 29% ;
+    background-image: linear-gradient(to right, #bdcde5, #71dcff, #00ece8, #00f29a, #a8eb12);
+    
+}
+
+/* this home section end */
+
+
+/* this about section start */
+
+
+.aboutme{ 
+    background-color:#F3F5F9 ;
+    padding: 25px;
+    border-radius: 20px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+   
+
+.uicard{
+    background-color: #FFF4F4;
+}
+.uicard:hover{
+    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+}
+
+
+
+/* this about section end */
+
+
+/* This projects section start */
+
+
+.projectsCard:hover{
+    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+    cursor: pointer;
+    cursor: pointer;
+
+   
+}
+
+
+/* This projects section end */
+
+
+/* this contact form  */
+
+.contactForm{
+    background-image: linear-gradient(to right top, #76aaf8, #00baee, #00c2c3, #52c18b, #9eb95e);
+}
+
+
+
