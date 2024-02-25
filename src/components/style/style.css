@@ -111,5 +111,37 @@
     background-image: linear-gradient(to right top, #76aaf8, #00baee, #00c2c3, #52c18b, #9eb95e);
 }
 
+/* this contact form end */
 
 
+/* this footer section */
+
+.footer{
+    background-color: #F26966;
+}
+
+
+
+.custom-shape-divider-top-1708835377 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-top-1708835377 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 66px;
+}
+
+.custom-shape-divider-top-1708835377 .shape-fill {
+    fill: #FFFFFF;
+}
+
+
+/* this footer section */
