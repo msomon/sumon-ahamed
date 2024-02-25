@@ -21,11 +21,11 @@ const Projects = () => {
           });
     })
     return (
-        <div className=' w-full md:w-ful lg:w-4/5 mx-auto mt-20 '>
-           <h1 className='text-center text-3xl font-bold text-primary my-10'>My Projects</h1> 
+        <div id='projects' className=' w-full md:w-ful lg:w-4/5 mx-auto lg:mt-20 md:mt-20 mt-14 '>
+           <h1 className='text-center text-3xl font-bold text-primary my-10 lg:mb-20 md:mt-20 mt-16 '>My Projects</h1> 
 
 
-     <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 justify-center items-center mb-10 '>
+     <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 justify-center items-center '>
 
      
 

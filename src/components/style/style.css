@@ -37,6 +37,9 @@
     color:black
     
 }
+.navbar li:active{
+    background-color:rgb(250, 29, 0)
+}
 
 
 /* navbar section end  */

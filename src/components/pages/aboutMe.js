@@ -8,8 +8,8 @@ import Image from 'next/image';
 
 const AboutMe = () => {
     return (
-        <div className='mt-20  w-full md:w-full lg:w-3/5 mx-auto aboutme '>
-            <div className='my-3 p-5  '>
+        <div id='about' className='lg:mt-20 sm:mt-10  w-full md:w-full lg:w-3/5 mx-auto aboutme '>
+            <div className='my-3 p-5 lg:mt-20 sm:mt-10 '>
             <h1 className='text-5xl underline decoration-green-500 mb-4'>About</h1>
 
     <p className='my-4 whitespace-normal '>

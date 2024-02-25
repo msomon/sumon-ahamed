@@ -22,8 +22,8 @@ const Contact = () => {
 
   }
   return (
-    <div id='contact' class="hero bg-base-200 mt-2 md:mt-8 lg:mt-10 ">
-    <div class="card contactForm lg:w-2/5 md:w-3/5  sm:w-[350px] shadow-2xl sm:mr-[15px] lg:mb-10 lg:mt-5 sm:mt-5">
+    <div id='contact' class="hero bg-base-200 mt-2 md:mt-8 lg:mt-20 ">
+    <div class="card contactForm lg:w-2/5 md:w-3/5  sm:w-[350px] shadow-2xl sm:mr-[15px] lg:mb-10 lg:mt-20 sm:mt-20">
    <h1 className='text-4xl text-primary text-center mt-6'> Contact Me </h1>
       <div class="card-body sm:ml-2">
         <form onSubmit={sendEmail}>

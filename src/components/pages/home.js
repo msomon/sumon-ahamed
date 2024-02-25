@@ -14,7 +14,7 @@ const Home = () => {
 
     <div>
     
-    <div  className=' flex lg:flex-row lg:mt-32 md:mt-24 mt-12 '>
+    <div  id='home' className=' flex lg:flex-row lg:mt-32 md:mt-24 mt-24 '>
 
         {/* <div className=' z-30  w-[100px] h-42 rounded-lg fixed left-0 justify-center items-center text-center hidden lg:block bg-green-400 mt-20 '>
 
@@ -30,7 +30,7 @@ const Home = () => {
 
       <div className='grid grid-cols-1  md:grid-cols-2  lg:grid-cols-2 gap-6  mt-10 w-full lg:w-4/5 items-center justify-center mx-auto mb-14 '>
 
-    <div className=' justify-center items-center mx-auto '>
+    <div className=' justify-center items-center mx-auto  sm:mt-10 '>
         
   <h3 className='text-3xl font-bold text-accent '> Hi I am <br />
    <span  className='text-yellow-500 '>Sumon Ahamed</span> </h3>
