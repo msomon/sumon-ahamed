@@ -10,6 +10,7 @@ import Reviews from '@/components/pages/Reviews';
 import Contact from '@/components/pages/contact';
 
 
+
 const Page = () => {
   return (
     <div className=' home'>

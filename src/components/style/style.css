@@ -16,6 +16,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    scroll-behavior: smooth;
    
 }
 
@@ -37,9 +38,7 @@
     color:black
     
 }
-.navbar li:active{
-    background-color:rgb(250, 29, 0)
-}
+
 
 
 /* navbar section end  */
