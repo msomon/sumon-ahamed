@@ -33,28 +33,28 @@ const AboutMe = () => {
        <figure><Image className='h-32 w-72 p-6 items-center ' src={uiDesign} alt="Movie"/></figure>
      <div className="card-body ">
     <h2 className="card-title">Ui/Ux Design</h2>
-    <p className='flex-wrap'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugiat facilis sint libero pariatur odit vitae praesentium provident aliquid impedit. Deleniti?</p>
+    <p className='flex-wrap'>My role revolves around crafting seamless digital experiences for users. User Interface (UI) design focuses on the aesthetic appeal and functionality of digital interfaces, ensuring elements like buttons, icons, and layouts are intuitive and visually engaging.</p>
   </div> 
 </div>
-      <div className="uicard sm:w-[300px] flex flex-col md:w-full lg:w-full  card card-side shadow-xl gap-3 lg:p-5 p-3 mx-auto ">
-       <figure><Image className='h-32 w-72 p-6 items-center ' src={webDEvelopment} alt="Movie"/></figure>
+      <div className="uicard sm:w-[300px] flex flex-col md:w-full lg:w-full  card card-side shadow-xl gap-3 lg:p-5 p-1 mx-auto ">
+       <figure><Image className='h-32 w-80 p-2 items-center ' src={webDEvelopment} alt="Movie"/></figure>
      <div className="card-body ">
     <h2 className="card-title">Web Development</h2>
-    <p className='flex-wrap'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugiat facilis sint libero pariatur odit vitae praesentium provident aliquid impedit. Deleniti?</p>
+    <p className='flex-wrap'>My primary responsibility is to build and maintain websites and implementing designs, ensuring responsiveness, optimizing performance, and often collaborating with designers and stakeholders to achieve project goals.</p>
   </div> 
 </div>
       <div className="uicard sm:w-[300px] flex flex-col md:w-full lg:w-full  card card-side shadow-xl gap-3 lg:p-5 p-3 mx-auto ">
        <figure><Image className='h-32 w-72 p-6 items-center ' src={appDevelopment} alt="Movie"/></figure>
      <div className="card-body ">
     <h2 className="card-title">App Development</h2>
-    <p className='flex-wrap'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugiat facilis sint libero pariatur odit vitae praesentium provident aliquid impedit. Deleniti?</p>
+    <p className='flex-wrap'> I design, build, and maintain applications for mobile devices or desktop platforms and utilize programming languages like React-Native to create functional and user-friendly software solutions.</p>
   </div> 
 </div>
       <div className="uicard sm:w-[300px] flex flex-col md:w-full lg:w-full  card card-side shadow-xl gap-3 lg:p-5 p-3 mx-auto ">
        <figure><Image className='h-32 w-72 p-6 items-center ' src={research} alt="Movie"/></figure>
      <div className="card-body ">
     <h2 className="card-title">Resarch</h2>
-    <p className='flex-wrap'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugiat facilis sint libero pariatur odit vitae praesentium provident aliquid impedit. Deleniti?</p>
+    <p className='flex-wrap'>I also researches emerging technologies, frameworks, and best practices to enhance website performance, security, and user experience.I stay updated to implement innovative solutions and optimize development processes.</p>
   </div> 
 </div>
 
